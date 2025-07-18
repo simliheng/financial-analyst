@@ -1,0 +1,20 @@
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment files
+.env
+
+# VSCode settings (optional)
+.vscode/
+
+# Node-related
+node_modules/
+.cache/
+frontend/node_modules/
+frontend/.cache/
+
+# SQLite DB (optional, if you use it only locally)
+*.sqlite3
